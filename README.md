@@ -1,10 +1,10 @@
 #python-challenge
 
-##Andrew Mack | March 2024
+    ##Andrew Mack | March 2024
 
 #Summary
 
-Repo holds the files for DU Bootcamp python challenges:
+    Repo holds the files for DU Bootcamp python challenges:
     
     *PyBank:
         "In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses"."
@@ -15,6 +15,7 @@ Repo holds the files for DU Bootcamp python challenges:
     *See Background.md for specific challenge requirements.
 
 #Repo Contents
+
     Background.md
     README.md
     PyBank folder
@@ -27,6 +28,7 @@ Repo holds the files for DU Bootcamp python challenges:
         /Resources/election_data.csv
 
 #Additional Note
+
     Beware that script to create and write results to a text file will overwrite any existing file with the same name in the same location!
 
 #Resources
