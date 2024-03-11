@@ -1,4 +1,5 @@
 #python-challenge
+
 ##Andrew Mack | March 2024
 
 #Summary
@@ -28,6 +29,7 @@
     Beware that script to create and write results to a text file will overwrite any existing file with the same name in the same location!
 
 #Resources
+
     *Challenge instructions, hints and considerations, and source data provided by: edX Boot Camps and University of Denver
     
     *Learnings from class content and activities
